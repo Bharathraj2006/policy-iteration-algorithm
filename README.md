@@ -54,9 +54,9 @@ def policy_improvement(V, P, gamma=1.0):
 ![alt text](<output/image copy 2.png>)
 ![alt text](<output/image copy 3.png>)
 ![alt text](<output/image copy 4.png>)
-![alt text](<output/image copy 5.png>)
 
 ### 3. Policy, Value function and success rate after policy iteration
+![alt text](<output/image copy 5.png>)
 ![alt text](<output/image copy 6.png>)
 ![alt text](<output/image copy 7.png>)
 ![alt text](<output/image copy 8.png>)
